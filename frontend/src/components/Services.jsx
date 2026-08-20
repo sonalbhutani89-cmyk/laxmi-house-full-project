@@ -12,6 +12,52 @@ export default function Services() {
 
       </div>
 
+      
+
+      {/* Service 0 - Quality & Guarantee */}
+
+<div className="service-box reverse">
+
+  <div className="service-image">
+
+    <img
+      src="https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=900&q=80"
+      alt="Premium hardware tools and quality materials"
+    />
+
+  </div>
+
+  <div className="service-content">
+
+    <h2>No Compromise With Quality and Guarantee</h2>
+
+    <p>
+      We believe that quality is the foundation of every successful
+      interior project. We use carefully selected, premium-quality
+      materials and reliable hardware to deliver interiors that are
+      strong, durable, and built to last.
+    </p>
+
+    <div className="feature-grid">
+
+      <div>✔ Premium Quality Hardware</div>
+
+      <div>✔ Durable & Reliable Materials</div>
+
+      <div>✔ Quality Checked Products</div>
+
+      <div>✔ Long-Lasting Performance</div>
+
+      <div>✔ Trusted Fittings & Accessories</div>
+
+      <div>✔ Quality & Service Guarantee</div>
+
+    </div>
+
+  </div>
+
+</div>
+
       {/* Service 1 */}
 
       <div className="service-box">
